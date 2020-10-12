@@ -11,9 +11,9 @@ function Index() {
         <link rel="icon" href={favicon} />
       </Helmet>
       <div id="page">
-        <h1 id="maintitle">Deft.</h1>
+        <h1 id="maintitle">Dext.</h1>
         <div className="sub-text">
-          THe future of No-code development. Coming January 2021
+          THe future of No-code development. Coming April 2021
         </div>
       </div>
     </>
