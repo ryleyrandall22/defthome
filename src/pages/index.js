@@ -1,14 +1,14 @@
 import React from "react";
 import { Helmet } from "react-helmet";
-import favicon from "../images/favicon.png";
+
 import "../styles/index.css";
 
 function Index() {
   return (
     <>
       <Helmet>
-        <title>Deft.</title>
-        <link rel="icon" href={favicon} />
+        <title>Dext.</title>
+        <link rel="icon" type="image/png" href="/static/favicon.ico" sizes="16x16" />
       </Helmet>
       <div id="page">
         <h1 id="maintitle">Dext.</h1>
